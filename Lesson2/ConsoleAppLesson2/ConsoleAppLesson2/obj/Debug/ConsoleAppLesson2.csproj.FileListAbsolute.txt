@@ -1,0 +1,14 @@
+C:\Users\Workstation\source\repos\ConsoleAppLesson2\ConsoleAppLesson2\bin\Debug\ConsoleAppLesson2.exe.config
+C:\Users\Workstation\source\repos\ConsoleAppLesson2\ConsoleAppLesson2\bin\Debug\ConsoleAppLesson2.exe
+C:\Users\Workstation\source\repos\ConsoleAppLesson2\ConsoleAppLesson2\bin\Debug\ConsoleAppLesson2.pdb
+C:\Users\Workstation\source\repos\ConsoleAppLesson2\ConsoleAppLesson2\obj\Debug\ConsoleAppLesson2.csproj.CoreCompileInputs.cache
+C:\Users\Workstation\source\repos\ConsoleAppLesson2\ConsoleAppLesson2\obj\Debug\ConsoleAppLesson2.exe
+C:\Users\Workstation\source\repos\ConsoleAppLesson2\ConsoleAppLesson2\obj\Debug\ConsoleAppLesson2.pdb
+C:\Users\Workstation\source\repos\ConsoleAppLesson2\ConsoleAppLesson2\obj\Debug\ConsoleAppLesson2.csprojAssemblyReference.cache
+C:\Users\Workstation\source\repos\Lesson2\ConsoleAppLesson2\ConsoleAppLesson2\bin\Debug\ConsoleAppLesson2.exe.config
+C:\Users\Workstation\source\repos\Lesson2\ConsoleAppLesson2\ConsoleAppLesson2\bin\Debug\ConsoleAppLesson2.exe
+C:\Users\Workstation\source\repos\Lesson2\ConsoleAppLesson2\ConsoleAppLesson2\bin\Debug\ConsoleAppLesson2.pdb
+C:\Users\Workstation\source\repos\Lesson2\ConsoleAppLesson2\ConsoleAppLesson2\obj\Debug\ConsoleAppLesson2.csprojAssemblyReference.cache
+C:\Users\Workstation\source\repos\Lesson2\ConsoleAppLesson2\ConsoleAppLesson2\obj\Debug\ConsoleAppLesson2.csproj.CoreCompileInputs.cache
+C:\Users\Workstation\source\repos\Lesson2\ConsoleAppLesson2\ConsoleAppLesson2\obj\Debug\ConsoleAppLesson2.exe
+C:\Users\Workstation\source\repos\Lesson2\ConsoleAppLesson2\ConsoleAppLesson2\obj\Debug\ConsoleAppLesson2.pdb

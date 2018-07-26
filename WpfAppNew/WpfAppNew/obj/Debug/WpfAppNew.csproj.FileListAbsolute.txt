@@ -1,0 +1,15 @@
+c:\users\workstation\source\repos\WpfAppNew\WpfAppNew\bin\Debug\WpfAppNew.exe.config
+c:\users\workstation\source\repos\WpfAppNew\WpfAppNew\bin\Debug\WpfAppNew.exe
+c:\users\workstation\source\repos\WpfAppNew\WpfAppNew\bin\Debug\WpfAppNew.pdb
+c:\users\workstation\source\repos\WpfAppNew\WpfAppNew\obj\Debug\WpfAppNew.csprojAssemblyReference.cache
+c:\users\workstation\source\repos\WpfAppNew\WpfAppNew\obj\Debug\MainWindow.g.cs
+c:\users\workstation\source\repos\WpfAppNew\WpfAppNew\obj\Debug\App.g.cs
+c:\users\workstation\source\repos\WpfAppNew\WpfAppNew\obj\Debug\WpfAppNew_MarkupCompile.cache
+c:\users\workstation\source\repos\WpfAppNew\WpfAppNew\obj\Debug\WpfAppNew_MarkupCompile.lref
+c:\users\workstation\source\repos\WpfAppNew\WpfAppNew\obj\Debug\MainWindow.baml
+c:\users\workstation\source\repos\WpfAppNew\WpfAppNew\obj\Debug\WpfAppNew.g.resources
+c:\users\workstation\source\repos\WpfAppNew\WpfAppNew\obj\Debug\WpfAppNew.Properties.Resources.resources
+c:\users\workstation\source\repos\WpfAppNew\WpfAppNew\obj\Debug\WpfAppNew.csproj.GenerateResource.cache
+c:\users\workstation\source\repos\WpfAppNew\WpfAppNew\obj\Debug\WpfAppNew.csproj.CoreCompileInputs.cache
+c:\users\workstation\source\repos\WpfAppNew\WpfAppNew\obj\Debug\WpfAppNew.exe
+c:\users\workstation\source\repos\WpfAppNew\WpfAppNew\obj\Debug\WpfAppNew.pdb
