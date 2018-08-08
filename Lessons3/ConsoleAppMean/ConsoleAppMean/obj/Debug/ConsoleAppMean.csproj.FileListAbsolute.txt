@@ -1,0 +1,6 @@
+C:\Users\Workstation\source\repos\Lessons3\ConsoleAppMean\ConsoleAppMean\bin\Debug\ConsoleAppMean.exe.config
+C:\Users\Workstation\source\repos\Lessons3\ConsoleAppMean\ConsoleAppMean\bin\Debug\ConsoleAppMean.exe
+C:\Users\Workstation\source\repos\Lessons3\ConsoleAppMean\ConsoleAppMean\bin\Debug\ConsoleAppMean.pdb
+C:\Users\Workstation\source\repos\Lessons3\ConsoleAppMean\ConsoleAppMean\obj\Debug\ConsoleAppMean.csproj.CoreCompileInputs.cache
+C:\Users\Workstation\source\repos\Lessons3\ConsoleAppMean\ConsoleAppMean\obj\Debug\ConsoleAppMean.exe
+C:\Users\Workstation\source\repos\Lessons3\ConsoleAppMean\ConsoleAppMean\obj\Debug\ConsoleAppMean.pdb

@@ -1,0 +1,7 @@
+C:\Users\Workstation\source\repos\Lessons3\ConsoleAppLes3\ConsoleAppLes3\bin\Debug\ConsoleAppLes3.exe.config
+C:\Users\Workstation\source\repos\Lessons3\ConsoleAppLes3\ConsoleAppLes3\bin\Debug\ConsoleAppLes3.exe
+C:\Users\Workstation\source\repos\Lessons3\ConsoleAppLes3\ConsoleAppLes3\bin\Debug\ConsoleAppLes3.pdb
+C:\Users\Workstation\source\repos\Lessons3\ConsoleAppLes3\ConsoleAppLes3\obj\Debug\ConsoleAppLes3.csprojAssemblyReference.cache
+C:\Users\Workstation\source\repos\Lessons3\ConsoleAppLes3\ConsoleAppLes3\obj\Debug\ConsoleAppLes3.csproj.CoreCompileInputs.cache
+C:\Users\Workstation\source\repos\Lessons3\ConsoleAppLes3\ConsoleAppLes3\obj\Debug\ConsoleAppLes3.exe
+C:\Users\Workstation\source\repos\Lessons3\ConsoleAppLes3\ConsoleAppLes3\obj\Debug\ConsoleAppLes3.pdb

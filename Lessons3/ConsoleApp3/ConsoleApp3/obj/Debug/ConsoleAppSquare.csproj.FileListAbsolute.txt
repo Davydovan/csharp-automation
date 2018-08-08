@@ -1,0 +1,6 @@
+C:\Users\Workstation\source\repos\Lessons3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Workstation\source\repos\Lessons3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Workstation\source\repos\Lessons3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Workstation\source\repos\Lessons3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleAppSquare.csproj.CoreCompileInputs.cache
+C:\Users\Workstation\source\repos\Lessons3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Workstation\source\repos\Lessons3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
