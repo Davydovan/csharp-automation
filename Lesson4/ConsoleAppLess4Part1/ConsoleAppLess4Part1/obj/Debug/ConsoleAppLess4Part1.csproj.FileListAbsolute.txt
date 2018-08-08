@@ -1,0 +1,7 @@
+C:\Users\Workstation\source\repos\Lesson4\ConsoleAppLess4Part1\ConsoleAppLess4Part1\bin\Debug\ConsoleAppLess4Part1.exe.config
+C:\Users\Workstation\source\repos\Lesson4\ConsoleAppLess4Part1\ConsoleAppLess4Part1\bin\Debug\ConsoleAppLess4Part1.exe
+C:\Users\Workstation\source\repos\Lesson4\ConsoleAppLess4Part1\ConsoleAppLess4Part1\bin\Debug\ConsoleAppLess4Part1.pdb
+C:\Users\Workstation\source\repos\Lesson4\ConsoleAppLess4Part1\ConsoleAppLess4Part1\obj\Debug\ConsoleAppLess4Part1.csprojAssemblyReference.cache
+C:\Users\Workstation\source\repos\Lesson4\ConsoleAppLess4Part1\ConsoleAppLess4Part1\obj\Debug\ConsoleAppLess4Part1.csproj.CoreCompileInputs.cache
+C:\Users\Workstation\source\repos\Lesson4\ConsoleAppLess4Part1\ConsoleAppLess4Part1\obj\Debug\ConsoleAppLess4Part1.exe
+C:\Users\Workstation\source\repos\Lesson4\ConsoleAppLess4Part1\ConsoleAppLess4Part1\obj\Debug\ConsoleAppLess4Part1.pdb
